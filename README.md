@@ -1,4 +1,5 @@
 restlesside-git-tester
 ======================
 
-Testing commit
+This is a test to see if the status updates.
+
